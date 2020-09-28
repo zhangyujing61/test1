@@ -1,2 +1,2 @@
-const len=3;
+const len='22222222';
 console.log(len);
